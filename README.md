@@ -11,5 +11,6 @@ Un Blog para la Vida
 * Argentina
 * Uruguay
 * Mexico
+* Creado por el increible David
 
 **Y ademas, les enseñare los lugares de mi patria que hasta hoy conozco. **
