@@ -12,5 +12,7 @@ Un Blog para la Vida
 * Uruguay
 * Mexico
 * Creado por el increible David
+* Incluye ejemplos en windows linux y Mac
+* Disponible para todas las edades
 
 **Y ademas, les enseñare los lugares de mi patria que hasta hoy conozco. **
